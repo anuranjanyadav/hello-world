@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Just another hello-world repository
+This is a hello world project. This is the start of my life on github.
